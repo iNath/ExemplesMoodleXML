@@ -1,0 +1,20 @@
+<question type="truefalse"> 
+	<name>
+		<text>Question météo</text>
+	</name>
+	<questiontext format="html">
+		<text>Il fait beau</text>     
+	</questiontext>
+	<answer fraction="100">
+		<text>true</text>
+		<feedback>
+			<text>Correct!</text>
+		</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>false</text>
+		<feedback>
+			<text>Il fait toujours beau au dessus des nuages</text>
+		</feedback>
+	</answer>
+</question>
