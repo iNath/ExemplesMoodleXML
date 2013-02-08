@@ -2,7 +2,7 @@
 <question type="shortanswer">
  <answer fraction="100">
      <text>The correct answer</text>
-     <feedback><text>Correct!</text></feedback>
+     <feedback><text>Correct??</text></feedback>
  </answer>
  
  <question type="shortanswer">
